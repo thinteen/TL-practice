@@ -12,7 +12,7 @@ get-medicine-by-name - Получить препарат по названию
 
 get-medicine-quantity-by-name - Получить наличие препарата по названию
 
-get-number-of-varieties-of-medicines - Получить наличие разновидностей препаратов
+get-number-of-varieties-of-medicines - Получить наличие разновидностей препаратов в каждой аптеке
 
 delete-regularCustomer-by-id - Удалить клиента по Id
 
